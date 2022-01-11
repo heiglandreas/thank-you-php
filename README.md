@@ -48,6 +48,7 @@ Signed,
 - Anatoly Chesneyshy ([@Pronik2009](https://github.com/Pronik2009)), Backend developer, ❤ PHP since 2012, Ukraine
 - Andre Polykanine ([@Menelion](https://github.com/Menelion)), Backend developer, ❤ PHP since 2007, Ukraine/Germany
 - Andrea Ruggiero ([@pupaxxo](https://github.com/pupaxxo)), Backend Developer, PHP & Symfony Lover, Italy
+- Andreas Heigl(.[@heiglandreas](https://github.com/heiglandreas)), Software Developer, 🇩🇪 Germany
 - Andrey Astashov ([@mvcaaa](https://github.com/mvcaaa)), Software Developer, Russia/Finland
 - Andrey Iatsenko([@yzen.dev](https://github.com/yzen-dev)), Backend Developer. Russia, Krasnodar
 - Andrey Ratushniy ([@agratushniy](https://github.com/agratushniy)), Backend Developer, Russia
